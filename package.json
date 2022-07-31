@@ -1,0 +1,22 @@
+{
+    "name": "mdpkm-example-plugin",
+    "author": "Blookerss (https://github.com/Blookerss)",
+    "description": "Example plugin for mdpkm!",
+    "repository": "github:Blookerss/mdpkm-example-plugin",
+    "homepage": "https://github.com/Blookerss/mdpkm-example-plugin#readme",
+    "license": "MIT",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.18.2",
+        "@babel/preset-env": "^7.18.2",
+        "@babel/preset-react": "^7.17.12",
+        "babel-loader": "^8.2.5",
+        "copy-webpack-plugin": "^10.2.4",
+        "webpack": "^5.72.1",
+        "webpack-cli": "^4.9.2",
+        "zip-webpack-plugin": "^4.0.1"
+    }
+}

@@ -1,0 +1,4 @@
+{
+    "loaders.custom_example": "Custom Loader",
+    "loaders.custom_example.summary": "This is a custom loader from the mdpkm Example Plugin!"
+}
