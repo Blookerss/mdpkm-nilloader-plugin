@@ -1,4 +1,3 @@
 {
-    "name": "mdpkm Example Plugin",
-    "toasts.test_message": "This is a message from the mdpkm Example Plugin!"
+    "name": "mdpkm NilLoader Plugin"
 }
