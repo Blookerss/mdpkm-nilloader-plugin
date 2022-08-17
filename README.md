@@ -1,10 +1,6 @@
-# mdpkm Example Plugin
-An official working example for [mdpkm](https://github.com/Blookerss/mdpkm)'s plugin system.<br/>
-This is a GitHub template, click 'Use this template'!<br/>
-This is still a work in progress, make sure to check for new additions!<br/><br/>
+# NilLoader for mdpkm
+Adds basic support for NilLoader to [mdpkm](https://github.com/Blookerss/mdpkm).<br/>
+![image](https://user-images.githubusercontent.com/32640219/185041503-04fd0d7f-961c-4c73-8bde-d1c788441d1c.png)
 
-## Contained Examples
-| Example       | Summary                                                                                                             |
-|---------------|---------------------------------------------------------------------------------------------------------------------|
-| Custom Loader | Adds a Custom Loader to mdpkm!                                                                                      |
-| Custom UI     | Makes use of the [Patcher](https://docs.mdpkm.voxelified.com/docs/plugin-api/patcher) to modify the user interface. |
+
+### Visit the [NilLoader repository](https://github.com/unascribed/NilLoader) for more information.
