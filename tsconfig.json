@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "strict": true,
+        "target": "ESNext",
+        "module": "ESNext",
+        "isolatedModules": true,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "useDefineForClassFields": true,
+        "allowSyntheticDefaultImports": true,
+        "forceConsistentCasingInFileNames": true
+    }
+}

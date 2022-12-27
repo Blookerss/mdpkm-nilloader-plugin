@@ -1,3 +1,4 @@
-node_modules
-loader
 dist
+node_modules
+yarn-error.*
+auto-imports.*

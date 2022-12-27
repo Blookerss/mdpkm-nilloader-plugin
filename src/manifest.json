@@ -1,8 +1,5 @@
 {
     "id": "mdpkm-nilloader-plugin",
     "name": "mdpkm NilLoader Plugin",
-    "version": "1.0.0",
-    "depends": {
-        "mdpkm": ">=1.8.0"
-    }
+    "version": "1.0.0"
 }
